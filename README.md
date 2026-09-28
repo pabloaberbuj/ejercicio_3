@@ -22,7 +22,7 @@ Es el proyecto del ejercicio 3 de Desarrollo con python
 
 ```batch
 
-    $ pip install ejercicio_3
+    $ pip install git+https://github.com/pabloaberbuj/ejercicio_3.git
 ```
 
 This is the preferred method to install ejercicio_3, as it will always
